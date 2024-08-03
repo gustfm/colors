@@ -1,5 +1,5 @@
 {
-  "name": "@element-plus/colors",
+  "name": "@gsoaresorg/colors",
   "version": "1.0.0",
   "description": "This repository is meant for build color utils for theme customization",
   "scripts": {
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/element-plus/colors.git"
+    "url": "https://github.com/gustfm/colors.git"
   },
   "homepage": "https://element-plus.org/#/en-US/component/color",
   "license": "MIT",

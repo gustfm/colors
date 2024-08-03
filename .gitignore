@@ -9,3 +9,4 @@ lerna-debug.log
 yarn-error.log
 coverage/
 lib
+.npmrc
