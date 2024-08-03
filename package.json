@@ -1,6 +1,6 @@
 {
   "name": "@gsoaresorg/colors",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "This repository is meant for build color utils for theme customization",
   "scripts": {
     "build": "sh ./scripts/build.sh",
@@ -39,7 +39,10 @@
   "dependencies": {
     "@ctrl/tinycolor": "^3.4.0"
   },
-  "files": ["dist", "index.js"],
+  "files": [
+    "dist",
+    "index.js"
+  ],
   "typings": "dist/src/index.d.ts",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
