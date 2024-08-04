@@ -1,6 +1,6 @@
 {
   "name": "@gsoaresorg/colors",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "This repository is meant for build color utils for theme customization",
   "scripts": {
     "build": "sh ./scripts/build.sh",
